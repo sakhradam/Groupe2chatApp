@@ -1,0 +1,97 @@
+.container {
+    margin-top: 5px;
+    top: 50%;
+    left: 50%;
+}
+.nano {
+
+    width: auto;
+    height: 500px;
+}
+.nano .content {
+    padding: 10px;
+}
+.nano .pane {
+    background: #888;
+}
+.nano .slider {
+    background: #111;
+}
+img {
+    display:block;
+    margin:auto;
+    margin-top: -30px;
+}
+.form-control {
+  border-radius: 10px;
+  border-color: #4D394B;
+
+}
+
+}
+.form-group {
+  border: 2px;
+  border-radius: 10px;
+}
+.label {
+  color: red;
+}
+.well {
+  background-color: #4D394B;
+  color: white;
+  border-radius: 10px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.p{
+  align-self: center;
+}
+.ladda-button {
+background-color: #26A9E0;
+border-color: #26A9E0;
+}
+.panel-default > .panel-heading {
+  background-color: #4D394B;
+  border-radius: 20px;
+  color: white;
+  font-weight: bold;
+}
+h3 {
+  font-weight: bold
+}
+.panel-default {
+  border-radius: 20px;
+}
+
+.badge {
+background-color: #C95050;
+}
+.panel-body2 {
+    background-color: #4D394B;
+}
+.panel-body {
+  border-color: #4D394B;
+}
+.panel-default2{
+  background-color: #4D394B;
+  color: white;
+}
+.list-group-item2 {
+    position: relative;
+    display: block;
+    padding: 10px 15px;
+    margin-bottom: -1px;
+    background-color:#4D394B ;
+
+}
+
+a.list-group-item2 {
+  color: White;
+  font-weight: bold;
+  display:table-row;
+}
+.fa-spinner {
+  color:green;
+  display:table-row;
+  float: right;
+}
